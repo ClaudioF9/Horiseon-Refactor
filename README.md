@@ -2,10 +2,15 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This was a challenge for our front-end development bootcamp. The task was to refactor a websites code (html and CSS).
 
-This is a study guide that was created for boot camp studens who were going through the Prework. It contains several notes on topics such as HTML, CSS, JavaScript and Git.
+The accepance criteria was as follows:
 
+-Semantic HTML elements can be found throughout the source code
+-HTML elements follow a logical structure independent of styling and positioning
+-Image and icon elements contain accessible alt attributes
+-Heading attributes fall in sequential order
+-Title elements contain a concise, descriptive title
 
 ## Installation
 
@@ -13,7 +18,7 @@ N/A
 
 ## Usage
 
-This is a 
+Simply click on the link below to get to the website.
 
 ## Link to website
 https://claudiof9.github.io/Horiseon-Refactor/#social-media-marketing
