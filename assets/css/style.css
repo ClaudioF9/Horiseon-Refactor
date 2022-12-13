@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* replaced divs with nav*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/*amalgamated the different parts of the sections to reduce coding size*/
 .benefit-detail {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +104,7 @@ p {
     max-width: 150px;
 }
 
+/*amalgamated the different parts of the sections to reduce coding size*/
 .content-detail {
     margin-bottom: 20px;
     padding: 50px;
